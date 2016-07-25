@@ -11,4 +11,4 @@ fprintf(f,'%s\n',a);
 end
 
 fclose(f);
-fclose(s);      
+fclose(s);       
